@@ -1,0 +1,23 @@
+.mg-top-0{
+  margin-top: 0;
+}
+.w-100{
+  width: 100%;
+}
+.negrita{
+
+}
+.navbar-default img{
+  width: 65%;
+}
+.navbar-default h1{
+  font-size: 1.7rem;
+  font-weight: 600;
+}
+.navbar-default .row{
+  display:flex;
+  align-items: center;
+  }
+.fotos img{
+  padding-bottom: 5px;
+}
